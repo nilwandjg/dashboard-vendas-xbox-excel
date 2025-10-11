@@ -1,7 +1,7 @@
 # Projeto Oficina
 
 ## 📋 Descrição
-Projeto prático realizado na plataforma ***DIO*** em parceria com a ***Randstad***, com foco na criação de um dashboard de vendas para organizar e visualizar dados.
+Projeto prático realizado na plataforma ***DIO*** com foco na criação de um dashboard de vendas para organizar e visualizar dados.
 
 ## 🎯 Objetivo
 Transformar dados brutos em informações visuais claras e úteis, facilitando a análise de desempenho de vendas e a tomada de decisões com base nos dados.
